@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chukwubuikem-Onwuchuruba
+- 👋 Hi, I’m Chukwubuikem-Onwuchuruba
 - 👀 I’m interested in software development and open-source projects. I'm always eager to explore new technologies and improve my coding skills.
 - 🌱 I’m currently learning  advanced data structures and algorithms, as well as diving deeper into web development.
 - 💞️ I’m looking to collaborate on exciting projects that involve innovative technologies and have a positive impact on society. If you're working on something cool and need a motivated team member, count me in!
